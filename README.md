@@ -1,2 +1,3 @@
 # UsbPrinterMon
-Example for reading data from usb printers.
+Example of use WinAPI for reading data from usb printers.
+
